@@ -18,7 +18,7 @@ The sockets will represent the connection between the client program and the ser
 ## Example - a server & 2 clients and a server:
 
 <p align="center">
-  <img src="" alt="sequence" />
+  <img src="https://github.com/hajali-amine/chatroom-sockets/blob/main/assets/chatroom_sequence.png" alt="sequence" />
 </p>
 
 __Notes:__ 
